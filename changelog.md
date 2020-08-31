@@ -1,7 +1,9 @@
 # Trucker Assistant
 
 ## Changelog
-
+### Beta 0.0.0.8
+-> Spedition verlassen wurde verbessert
+#
 ### Beta 0.0.0.7
 -> Chat wurde überarbeitet (Entertaste zum senden)
 #
