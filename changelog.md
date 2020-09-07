@@ -1,6 +1,12 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.0
+
+-> Open Beta für die Spedition GermanTrans GmbH
+
+### -
+
 ### Beta 0.0.0.18
 
 -> Livechat für den Support wurde fertiggestellt
