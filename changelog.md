@@ -5,31 +5,41 @@
 ### Beta 0.0.0.17
 
 -> Sound in benachrichtigungen wurde gelöst
+
 ##
+
 ### Beta 0.0.0.16
 
 -> Livechat wurde verbessert (WIP)
 
 -> Weitere Datenbankfehler wurden behoben
+
 ##
+
 ### Beta 0.0.0.15
 
 -> Livechat für Support wurde eingebaut (WIP)
 
 -> Benachrichtigungssystem ausgebaut (Sound und Sichtbares Element bei neuem Support)
+
 ##
+
 ### Beta 0.0.0.14
 
 -> Kleine Verbesserungen (Datenbankverbindungen)
 
 -> Benachrichtigungen bei Bewerbungen
+
 ##
+
 ### Beta 0.0.0.13
 
 -> Verwaltung von Speditionen
 
 -> Erstellung von Speditionen
+
 ##
+
 ### Beta 0.0.0.12
 
 -> Einige kleine Updates
@@ -39,28 +49,40 @@
 -> Kontakt wurde eingefügt
 
 -> Performance verbesserungen
+
 ##
+
 ### Beta 0.0.0.11
 
 -> Weitere Verbindungsfehler wurden behoben
+
 ##
+
 ### Beta 0.0.0.10
 
 -> Datenbankumzug kleine Verbindungsfehler wurden behoben
+
 ##
+
 ### Beta 0.0.0.9
 
 -> Datenbankumzug (An die Beta tester bitte  
 kontrolliert ob alle Funktionen einwandfrei funktionieren!)
+
 ##
+
 ### Beta 0.0.0.8
 
 -> Spedition verlassen wurde verbessert
+
 ##
+
 ### Beta 0.0.0.7
 
 -> Chat wurde überarbeitet (Entertaste zum senden)
+
 ##
+
 ### Beta 0.0.0.6
 
 -> Passwort zurücksetzen
@@ -68,7 +90,9 @@ kontrolliert ob alle Funktionen einwandfrei funktionieren!)
 -> Passwort ändern
 
 -> Neue speicherung der Passwörter
+
 ##
+
 ### Beta 0.0.0.3
 
 -> Kleinere Bugfixes
