@@ -1,6 +1,13 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.0.18
+
+-> Livechat für den Support wurde fertiggestellt
+-> Trucker Assistant Logo
+
+### -
+
 ### Beta 0.0.0.17
 
 -> Sound in benachrichtigungen wurde gelöst
