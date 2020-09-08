@@ -1,6 +1,11 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.3
+
+-> Einige Verbesserungen (Das Logo wird jetzt von der Spedition angezeigt)
+
+### -
 ### Beta 0.0.1.0
 
 -> Open Beta für die Spedition GermanTrans GmbH
