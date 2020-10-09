@@ -1,6 +1,12 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.10
+
+-> Sicherheitsfunktionen
+
+### -
+
 ### Beta 0.0.1.9
 
 -> Benachrichtigungssystem
