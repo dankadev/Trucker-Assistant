@@ -1,6 +1,26 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.9
+
+-> Benachrichtigungssystem
+
+### -
+
+### Beta 0.0.1.8
+
+-> Frachtbriefe werden Fehlerfrei angezeigt
+-> Weitere Möglichkeiten seine Spedition zu konfigurieren
+
+### -
+
+### Beta 0.0.1.7
+
+-> Zuletzt gesehen in der Mitgliederverwaltung
+-> Chatbenachrichtigungen durch Sound
+
+### -
+
 ### Beta 0.0.1.4
 
 -> Kleinere Fehlerbehebungen
