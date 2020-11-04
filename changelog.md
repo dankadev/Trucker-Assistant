@@ -1,6 +1,11 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.12
+
+-> Fehlermelden neues Menü
+
+### -
 ### Beta 0.0.1.11
 
 -> Hotfix (Zeitüberschreibung)
