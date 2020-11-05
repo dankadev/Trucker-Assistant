@@ -1,6 +1,11 @@
 # Trucker Assistant
 
 ## Changelog
+### Beta 0.0.1.14
+
+-> Neues System zur Sendung von E-Mails
+
+### -
 ### Beta 0.0.1.12
 
 -> Fehlermelden neues Menü
